@@ -1,0 +1,27 @@
+body {
+	background-color: #d3d3d3;
+}
+
+.pager {
+	list-style: none;
+	
+	background-color: #222;
+	color:white;
+	width:1em;
+	padding:0.25em;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.pager:hover {
+	background-color:#555;
+}
+
+
+.sel {
+	background-color:red;
+}
+
+.sel:hover {
+	background-color:#a00;
+}
